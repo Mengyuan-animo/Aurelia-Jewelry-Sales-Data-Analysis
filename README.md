@@ -57,11 +57,6 @@ This structure separates measurable business activity from descriptive attribute
 
 The bus matrix was used to define how shared dimensions support the different business processes in the analytical model.
 
-| Business Process | Product | Business Line | Calendar | Date | Currency |
-|---|---:|---:|---:|---:|---:|
-| Sales | ✓ | ✓ | ✓ | ✓ | |
-| Exchange Rates | | | | ✓ | ✓ |
-
 ![Bus Matrix](bus-matrix.png)
 
 This provides a high-level view of the analytical architecture and helps maintain consistent dimensions across business processes.
