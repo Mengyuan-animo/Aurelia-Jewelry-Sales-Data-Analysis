@@ -49,7 +49,7 @@ The core sales data is structured at the grain of **Year Week Ã— Business Line Ã
 
 The analytical model uses a star-schema-oriented structure, with `FactSalesOverview` at the center and dimensions for Product, Business Line, Date, and Currency.
 
-This structure separates measurable business activity from descriptive attributes and supports flexible analysis across markets, products, categories, and time.
+This structure separates measurable business activity from descriptive attributes and supports flexible analysis across markets, products, time and currencies.
 
 ![Data Model](star-schema-conceptual-model.png)
 
@@ -100,8 +100,8 @@ Focuses on understanding sales performance and growth over time.
 Key analyses include:
 
 - YTD Revenue Trend
-- MoM Revenue Growth
-- YoY Revenue Growth
+- MoM Revenue Growth Rate
+- YoY Revenue Growth Rate
 - Revenue trends by Jewelry Category
 - Interactive market views
 
@@ -134,7 +134,7 @@ Australia and China are the two largest revenue-generating markets, together acc
 
 ### Product Concentration
 
-Charms contribute approximately **75% of total revenue**, making them the dominant category in the product portfolio.
+Charms contribute approximately **67% of total revenue in 2020**, making them the dominant category in the product portfolio.
 
 ### Different Market Profiles
 
