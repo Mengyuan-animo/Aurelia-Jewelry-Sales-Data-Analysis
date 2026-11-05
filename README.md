@@ -105,7 +105,7 @@ Key analyses include:
 - Revenue trends by Jewelry Category
 - Interactive market views
 
-![Time Intelligence](time-intelligence.png)
+![Time Intelligence](timeintelligence.png)
 
 ---
 
@@ -122,7 +122,7 @@ Key analyses include:
 
 The Low-Sales Products analysis applies a business rule to exclude products that had not yet launched during the selected sales period, avoiding misleading classification of products with zero sales.
 
-![Sales Details](sales-details.png)
+![Sales Details](salesdetails.png)
 
 ---
 
