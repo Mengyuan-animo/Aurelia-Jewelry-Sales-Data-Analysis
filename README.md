@@ -49,7 +49,7 @@ The analytical model follows a star-schema-oriented structure, with `FactSalesOv
 
 This structure separates measurable business activity from descriptive attributes and supports flexible analysis across markets, products, time, and currencies.
 
-![Data Model](star-schema-conceptual-model.png)
+![Data Model](star-schema-logical-model.png)
 
 ### Bus Matrix
 
